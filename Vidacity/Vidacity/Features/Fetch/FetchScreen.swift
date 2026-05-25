@@ -245,9 +245,10 @@ struct FetchQueueRow: View {
     private func downloadingCaption(progress: Double?, phase: String?) -> String {
         let prefix: String
         if let progress, progress > 0 {
-            prefix = "Downloading \(Int((progress * 100).rounded()))%"
+            let pct = Int((progress * 100).rounded())
+            prefix = String(format: String(localized: "Downloading %lld%%"), pct)
         } else {
-            prefix = "Downloading"
+            prefix = String(localized: "Downloading")
         }
         if let phase, !phase.isEmpty {
             return "\(prefix) · \(phase)"
