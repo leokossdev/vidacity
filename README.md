@@ -19,6 +19,71 @@ If you do not agree with these terms, do not install or use this software.
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/01_search_recent_dark_gentleman.jpg" alt="Search tab with recent queries" width="260"><br>
+      <sub><b>Search</b> · recent queries pinned above the home feed</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/02_search_keyboard_dance_autocomplete.jpg" alt="Search autocomplete suggestions" width="260"><br>
+      <sub><b>Autocomplete</b> · live suggestions as you type</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/03_search_results_dance_music.jpg" alt="Search results list" width="260"><br>
+      <sub><b>Results</b> · videos, playlists, channels in one list</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/05_player_dj_silviu_intro.jpg" alt="Full-screen player playing a video" width="260"><br>
+      <sub><b>Player</b> · LNPopupUI-driven expanded surface</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/06_player_controls_club_mix.jpg" alt="Native AVPlayer transport controls" width="260"><br>
+      <sub><b>System controls</b> · scrubber, PiP, AirPlay, mute</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/04_player_downloading_video.jpg" alt="Player showing in-flight yt-dlp download" width="260"><br>
+      <sub><b>Live download</b> · yt-dlp progress before playback starts</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/07_library_account_andrew_breus.jpg" alt="Library tab signed in" width="260"><br>
+      <sub><b>Library</b> · history, playlists, liked, Watch Later</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/13_downloads_saved_videos.jpg" alt="Saved-on-device downloads list" width="260"><br>
+      <sub><b>Downloads</b> · saved videos, offline-playable</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/08_downloads_transfer_queue.jpg" alt="Transfer queue with progress" width="260"><br>
+      <sub><b>Transfer queue</b> · active downloads with cancel</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/10_link_paste_url.jpg" alt="Link tab with URL field" width="260"><br>
+      <sub><b>Link</b> · paste any URL from ~2,000 yt-dlp sites</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/11_link_preview_instagram_reel.jpg" alt="Format picker for an Instagram reel" width="260"><br>
+      <sub><b>Preview</b> · pick format + transcode options</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/09_settings_downloads_ytdlp.jpg" alt="Settings showing yt-dlp version" width="260"><br>
+      <sub><b>Settings</b> · cache limits + yt-dlp auto-refresh</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Screenshots taken on iPhone 17 Pro · iOS 26 · dark appearance is the only mode.</sub>
+
+---
+
 ## Status
 
 | Area | Status |
